@@ -19,6 +19,7 @@
 | **Вместимость пакета (K)** | $K = 8 + N \bmod 5 = 8 + 17 \bmod 5 = 8 + 2 = 10$ измерений |
 | **Версия Python** | `Python 3.14.8` |
 | **Объект проверки** | Функция `check(values, capacity)` в [service.py](service.py) |
+| **Репозиторий проекта** | https://github.com/legionhaos/prac3 |
 | **Дата выполнения** | 25 ноября 2026 г. |
 
 ---
